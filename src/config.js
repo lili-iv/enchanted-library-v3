@@ -1,9 +1,10 @@
 // ✏️ EDIT EVERYTHING HERE to make it yours!
 export const CFG = {
   title: 'Our 3rd Monthsary', // 👈 project name shown on the page and browser tab
+  music: 'music.mp3', // 👈 put your file in the /public folder with this exact name
   her: 'My Love',
   from: 'Liyan',
-  intro: 'Happy monthsary baby! I just want you to play this simple game I made for you. It’s a message, and I hope it makes you smile >//<',
+  intro: 'Happy monthsary baby! I just want you to play this simple game I made for you. It’s a little story about us, and I hope it makes you smile >//<',
   word: 'TAHANAN', // unscramble task (UPPERCASE)
   riddles: [
     { q: 'I am not a star, yet I fall for you. I am not a candle, yet I burn for you. I have no wings, yet I fly to you. What am I?', a: ['The moon', 'My Heart', 'A firefly'], c: 1 },
